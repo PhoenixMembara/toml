@@ -1,0 +1,9 @@
+curl --head https://7clover.000webhostapp.com/.well-known/stellar.toml
+[[CURRENCIES]]
+code="7CLOVER"
+issuer="GCHZ7ELN5GKP4AXMVXHYYMWE7UWMG4EYMEGPLXHFMF7OAVZ5OAWO7777"
+display_decimals=5
+name="7CLOVER"
+desc="7CLOVER is a fortune token."
+conditions="There are only 7 million tokens available."
+image="https://i.pinimg.com/originals/4b/c2/d0/4bc2d0adc69ebb550902b772a51f8ac1.png"
